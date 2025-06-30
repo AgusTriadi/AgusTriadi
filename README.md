@@ -26,7 +26,7 @@
 ### 📫 Let's Connect!
 - 🌐 [Website Portofolio](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 📸 [Instagram @sarantumbuh](https://www.instagram.com/sarantumbuh/)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] (https://instagram.com/agustrdi)
 - 📨 Email: agustriadi@example.com
 
 ---
